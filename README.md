@@ -4,7 +4,7 @@
 -<p align="center"> <img src="https://komarev.com/ghpvc/?username=jkokilaCSE&label=Profile%20views&color=0e75b6&style=flat" alt="jkokilaCSE" /> </p>
 -🏫:  I'm Pursuing B.E CSE at JEC"24<br>
 👨‍💻 You can explore all of my projects on my [Projects](https://github.com/jkokilaCSE?tab=repositories) page. Feel free to check them out and provide any feedback or suggestions.<br>
-- :computer: &nbsp;Connect with me on [LinkedIn]([https://www.linkedin.com/in/vmmuthu31/](https://www.linkedin.com/in/kokila-j-1b73311b4/))<br>
+- :computer: &nbsp;Connect with me on [LinkedIn](https://www.linkedin.com/in/kokila-j-1b73311b4/)<br>
 - 📫 How to reach me **jkokila2810@gmail.com**<br>
 📄 If you're interested, you can learn more about my experiences.I have selected in E-yantra ,organised by IIT BOMBAY, which is Crash Course about Embedded System and Robotics.I have worked in many projects ,Notably I have worked as part of the LMS developers team, where I contributed to the development of various websites.<br>📫  Ask me about anything, I am happy to help and develop.
 
