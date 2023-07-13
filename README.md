@@ -3,7 +3,7 @@
 <h3 align="center">I love technology, I love to work and I love to do things that work!</h3><br>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=jkokilaCSE&label=Profile%20views&color=0e75b6&style=flat" alt="jkokilaCSE" /> </p>
 
-- 🏫:  I'm Pursuing B.E CSE at JEC"24<br>
+- 🏫:  I'm Pursuing B.E/CSE at JEC"24<br>
 
 * 👨‍💻 You can explore all of my projects on my [Projects](https://github.com/jkokilaCSE?tab=repositories) page. Feel free to check them out and provide any feedback or suggestions.<br>
 
