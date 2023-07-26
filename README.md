@@ -11,7 +11,7 @@
 
 * 📫 How to reach me **jkokila2810@gmail.com** <br>
 
-* 👨‍💻 If you're interested, you can learn more about my experiences.I have selected in E-yantra ,organised by IIT BOMBAY, which is Crash Course about Embedded System and Robotics.I have worked in many projects ,Notably I have worked as part of the LMS developers team, where I contributed to the development of various websites.<br>
+* 👨‍💻 If you're interested, you can learn more about my experiences.I was chosen for IIT Bombay's E-yantra, a crash course on embedded systems and robotics, and I received a merit award.I have worked in many projects ,Notably I have worked as part of the LMS developers team, where I contributed to the development of various websites.<br>
 
 * 📫  Ask me about anything, I am happy to help and develop myself.
 
