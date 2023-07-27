@@ -1,4 +1,4 @@
-# 💫 About Me:
+# 💫 About Me
 <h1 align="center">Hi 👋, I'm Kokila</h1>
 <h3 align="center">I love technology, I love to work and I love to do things that work!</h3><br>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=jkokilaCSE&label=Profile%20views&color=0e75b6&style=flat" alt="jkokilaCSE" /> </p>
